@@ -18,7 +18,7 @@ public class LoginController {
 	public String getMessage()
 	{
 		
-		return "views/success.jsp";
+		//return "views/success.jsp";
 		
 	}
 	
